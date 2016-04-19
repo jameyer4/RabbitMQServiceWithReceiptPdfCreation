@@ -1,0 +1,15 @@
+D:\VSProjects\RabbitConnection\RabbitConnection\bin\Debug\RabbitConnection.exe.config
+D:\VSProjects\RabbitConnection\RabbitConnection\bin\Debug\RabbitConnection.exe
+D:\VSProjects\RabbitConnection\RabbitConnection\bin\Debug\RabbitConnection.pdb
+D:\VSProjects\RabbitConnection\RabbitConnection\bin\Debug\RabbitMQ.Client.dll
+D:\VSProjects\RabbitConnection\RabbitConnection\bin\Debug\RabbitMQ.Client.xml
+D:\VSProjects\RabbitConnection\RabbitConnection\obj\Debug\RabbitConnection.exe
+D:\VSProjects\RabbitConnection\RabbitConnection\obj\Debug\RabbitConnection.pdb
+D:\Git-Repos\RabbitConnection\RabbitConnection\bin\Debug\RabbitConnection.exe.config
+D:\Git-Repos\RabbitConnection\RabbitConnection\bin\Debug\RabbitConnection.exe
+D:\Git-Repos\RabbitConnection\RabbitConnection\bin\Debug\RabbitConnection.pdb
+D:\Git-Repos\RabbitConnection\RabbitConnection\bin\Debug\RabbitMQ.Client.dll
+D:\Git-Repos\RabbitConnection\RabbitConnection\bin\Debug\RabbitMQ.Client.xml
+D:\Git-Repos\RabbitConnection\RabbitConnection\obj\Debug\RabbitConnection.csprojResolveAssemblyReference.cache
+D:\Git-Repos\RabbitConnection\RabbitConnection\obj\Debug\RabbitConnection.exe
+D:\Git-Repos\RabbitConnection\RabbitConnection\obj\Debug\RabbitConnection.pdb

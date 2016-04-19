@@ -1,0 +1,6 @@
+D:\VSProjects\RabbitConnection\RabbitMqService\bin\Debug\RabbitMqService.dll
+D:\VSProjects\RabbitConnection\RabbitMqService\bin\Debug\RabbitMqService.pdb
+D:\VSProjects\RabbitConnection\RabbitMqService\bin\Debug\RabbitMQ.Client.dll
+D:\VSProjects\RabbitConnection\RabbitMqService\bin\Debug\RabbitMQ.Client.xml
+D:\VSProjects\RabbitConnection\RabbitMqService\obj\Debug\RabbitMqService.dll
+D:\VSProjects\RabbitConnection\RabbitMqService\obj\Debug\RabbitMqService.pdb
