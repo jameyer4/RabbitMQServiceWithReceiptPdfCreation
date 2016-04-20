@@ -4,3 +4,10 @@ D:\VSProjects\RabbitConnection\RabbitMqService\bin\Debug\RabbitMQ.Client.dll
 D:\VSProjects\RabbitConnection\RabbitMqService\bin\Debug\RabbitMQ.Client.xml
 D:\VSProjects\RabbitConnection\RabbitMqService\obj\Debug\RabbitMqService.dll
 D:\VSProjects\RabbitConnection\RabbitMqService\obj\Debug\RabbitMqService.pdb
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitMqService\bin\Debug\RabbitMqService.dll
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitMqService\bin\Debug\RabbitMqService.pdb
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitMqService\bin\Debug\RabbitMQ.Client.dll
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitMqService\bin\Debug\RabbitMQ.Client.xml
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitMqService\obj\Debug\RabbitMqService.csprojResolveAssemblyReference.cache
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitMqService\obj\Debug\RabbitMqService.dll
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitMqService\obj\Debug\RabbitMqService.pdb

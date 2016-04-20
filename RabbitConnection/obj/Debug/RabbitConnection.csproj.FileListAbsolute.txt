@@ -16,3 +16,8 @@ D:\Git-Repos\RabbitConnection\RabbitConnection\obj\Debug\RabbitConnection.pdb
 D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\bin\Debug\RabbitConnection.exe.config
 D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\obj\Debug\RabbitConnection.exe
 D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\obj\Debug\RabbitConnection.pdb
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\bin\Debug\RabbitConnection.exe
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\bin\Debug\RabbitConnection.pdb
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\bin\Debug\RabbitMQ.Client.dll
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\bin\Debug\RabbitMQ.Client.xml
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\obj\Debug\RabbitConnection.csprojResolveAssemblyReference.cache

@@ -2,6 +2,7 @@
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace OneWayMessageSender
 {
@@ -26,7 +27,7 @@ namespace OneWayMessageSender
             Console.WriteLine("Enter your message and press Enter. Quit with 'q'.");
             //while (true)
             //{
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < 40; i++)
             {
                 string message = "ICAgICAgICAgICAgICBUZXN0IEludm9pY2UgICAgICAgICAgICAgIA0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KUmVmOiAgICAgICAgICAgICAgICAgICAgNzJDSEVaQllNQjM3Qk1LUw0KV2FpdGVyOiAgICAgICAgICAgICAgICAgICAgICAgQm9iIE1hcmxleQ0KVGFibGU6ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQyMA0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KSXRlbSAgICAgICAgICAgICAgICAgICAgICAgUXR5ICAgIEFtb3VudA0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KVE9UQUw6ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCwwMA0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0K";
                 messagingService.SendOneWayMessage(message, model);
@@ -77,7 +78,8 @@ namespace OneWayMessageSender
                 String message = Encoding.UTF8.GetString(deliveryArguments.Body);
                 Console.WriteLine("Message "+i+" received: {0}", message);
                 model.BasicAck(deliveryArguments.DeliveryTag, false);
-                ConvertToPdf ctp = new ConvertToPdf(message);
+                Task.Factory.StartNew(() => new ConvertToPdf(message));
+                //ConvertToPdf ctp = new ConvertToPdf(message);
                 i++;
             }
         }

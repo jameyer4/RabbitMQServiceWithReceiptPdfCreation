@@ -24,3 +24,15 @@ D:\Git-Repos\RabbitConnection\OneWayMessageSender\bin\Debug\RabbitMqService.pdb
 D:\Git-Repos\RabbitConnection\OneWayMessageSender\bin\Debug\RabbitMQ.Client.xml
 D:\Git-Repos\RabbitConnection\OneWayMessageSender\bin\Debug\Select.HtmlToPdf.xml
 D:\Git-Repos\RabbitConnection\OneWayMessageSender\obj\Debug\OneWayMessageSender.csprojResolveAssemblyReference.cache
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\bin\Debug\OneWayMessageSender.exe.config
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\bin\Debug\OneWayMessageSender.exe
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\bin\Debug\OneWayMessageSender.pdb
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\bin\Debug\Select.Html.dep
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\bin\Debug\RabbitMQ.Client.dll
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\bin\Debug\Select.HtmlToPdf.dll
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\bin\Debug\RabbitMQ.Client.xml
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\bin\Debug\Select.HtmlToPdf.xml
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\obj\Debug\OneWayMessageSender.csprojResolveAssemblyReference.cache
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\obj\Debug\OneWayMessageSender.exe
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\obj\Debug\OneWayMessageSender.pdb
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\bin\Debug\EO.Pdf.dll
