@@ -36,3 +36,4 @@ D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\obj\Debug
 D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\obj\Debug\OneWayMessageSender.exe
 D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\obj\Debug\OneWayMessageSender.pdb
 D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\bin\Debug\EO.Pdf.dll
+D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\OneWayMessageSender\bin\Debug\IronPdf.dll

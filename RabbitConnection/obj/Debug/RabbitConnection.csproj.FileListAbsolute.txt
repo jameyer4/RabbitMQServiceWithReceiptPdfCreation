@@ -20,4 +20,3 @@ D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\bin\Debug\Ra
 D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\bin\Debug\RabbitConnection.pdb
 D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\bin\Debug\RabbitMQ.Client.dll
 D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\bin\Debug\RabbitMQ.Client.xml
-D:\Git-Repos\RabbitMQServiceWithReceiptPdfCreation\RabbitConnection\obj\Debug\RabbitConnection.csprojResolveAssemblyReference.cache

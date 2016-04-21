@@ -3,27 +3,26 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
-using SelectPdf;
+using IronPdf;
 
 namespace OneWayMessageSender
 {
-    class ConvertToPdf
+    class ConvertToIronPdf
     {
-        public ConvertToPdf(string str,int i)
+        public ConvertToIronPdf(string str, int i)
         {
             string filename = @"C:/Users/arnom/Desktop/TestHTML/test";
             Program p = new Program();
             string findBase64 = @"[^a-zA-Z0-9\+\/=]";
             Regex rgx64 = new Regex(findBase64);
             HtmlToPdf converter = new HtmlToPdf();
-            PdfDocument doc;
 
             var html = toHTML(str);
             //File.WriteAllText(filename + ".html", html.ToString());
             //HtmlToPdf.RenderHtmlAsPdf(html).SaveAs(filename + (i + 1) + ".pdf");
-            doc = converter.ConvertHtmlString(html,filename+i + ".pdf");
-            doc.Save(filename +i+ ".pdf");
-            doc.Close();
+            HtmlToPdf HtmlToPdf = new IronPdf.HtmlToPdf();
+            PdfResource PDF = HtmlToPdf.RenderHtmlAsPdf(html);
+            PDF.SaveAs(filename + i + ".pdf");
             //HtmlToPdf.ConvertUrl(filename + (i + 1) + ".html", pdfname + (i + 1) + ".pdf");
 
         }
